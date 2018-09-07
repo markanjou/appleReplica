@@ -1,0 +1,207 @@
+.topnav {
+	background-color: black;
+	overflow: hidden;
+	opacity: 0.8;
+	position: sticky;
+	top: 0;
+	width: 100%;
+	padding: 1em;
+
+}
+
+.topnav a {
+	float: center;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 2em;
+	text-decoration: none;
+
+}
+
+.topnav a:hover {
+	color: darkgrey;
+
+}
+
+body {
+	text-align: center;
+
+}
+
+
+.iphone1 a {
+	text-decoration: none;
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.iphone1 a:hover {
+	text-decoration: underline;
+}
+
+#link1 .iphone1 {
+	display: inline-block;
+	padding: 5px;
+}
+
+.iphone2 a {
+	text-decoration: none;
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.iphone2 a:hover {
+	text-decoration: underline;
+}
+
+#link2 .iphone2 {
+	display: inline-block;
+	padding: 5px;
+}
+
+/*black mac pro div*/
+
+.blackmac1 {
+	background-color: #131218;
+}
+
+.blackmac1 h1 {
+	color: white;
+}
+
+.blackmac1 h2 {
+	color: white;
+}
+
+
+.blackmac1 a {
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.blackmac1 a:hover {
+	text-decoration: underline;
+}
+
+#link3 .iphone3 {
+	display: inline-block;
+	padding: 5px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.summer1 {
+  float: left;
+  width: 50%;
+  height: 50%;
+  padding: 5px;
+}
+
+
+/* Clear floats after image containers */
+.behind1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.iphone4 a {
+	text-decoration: none;
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.iphone4 a:hover {
+	text-decoration: underline;
+}
+
+#link4 .iphone4 {
+	display: inline-block;
+	padding: 5px;
+}
+
+.iphone5 a {
+	text-decoration: none;
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.iphone5 a:hover {
+	text-decoration: underline;
+}
+
+#link5 .iphone5 {
+	display: inline-block;
+	padding: 5px;
+}
+
+.iphone8 {
+  float: left;
+  width: 50%;
+  height: 50%;
+  padding: 5px;
+}
+
+.three3::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.iphone6 a {
+	text-decoration: none;
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.iphone6 a:hover {
+	text-decoration: underline;
+}
+
+#link6 .iphone6 {
+	display: inline-block;
+	padding: 5px;
+}
+
+.airpods1 {
+  float: left;
+  width: 50%;
+  height: 50%;
+  padding: 5px;
+}
+
+
+.applewatch1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+
